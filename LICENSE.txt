@@ -1,0 +1,122 @@
+iazShadow End User License Agreement (EULA)
+=============================================
+Version 2026.10-beta1 of 18.10.2026
+
+This agreement is made between Individual Entrepreneur Ilya Aleksandrovich Zharkov, OGRNIP 323784700171759 (the "rights holder"), and you, the person who installs or uses the iazShadow program (the "user"). If you accept this agreement on behalf of an organization, you confirm that you are authorized to act for it; in that case the user is that organization.
+
+This English text is a translation. If it differs from the Russian text, the Russian text prevails (see the Russian text below).
+
+1. About this agreement
+-----------------------
+1.1. This agreement is a license agreement granting the right to use the computer program iazShadow for Windows (the "program"). It is concluded under paragraph 5 of Article 1286 of the Civil Code of the Russian Federation.
+
+1.2. You accept this agreement when you check "I accept the license agreement" in the program's first-run wizard and click "Next". Recording calls is unavailable until you accept it. If you do not agree, do not use the program and uninstall it.
+
+1.3. The iazShadow privacy policy describes what data the program creates, where it is kept and what the program does on the network. You can open it next to this agreement in the first-run wizard and in the program's Settings.
+
+1.4. The program means the iazShadow program, the updates you install and the accompanying texts. Third-party components and speech models are used under their own terms (section 6).
+
+2. Your rights
+--------------
+2.1. The rights holder grants you a simple (non-exclusive) license to use the program worldwide for the term of the exclusive right to the program.
+
+2.2. In this version the license is free of charge: no fee is charged for using the program.
+
+2.3. You may install the program on computers you lawfully use, run it and use it for its purpose: recording, transcribing and keeping calls and working with them. The number of computers is not limited.
+
+2.4. You may perform the actions that Articles 1280 and 1280.1 of the Civil Code of the Russian Federation allow a person who lawfully owns a copy of a program, within the limits of those articles.
+
+2.5. Rights not expressly granted by this agreement are not granted. In particular, without the rights holder's written consent you may not modify the program, decompile or disassemble it (except where Articles 1280 and 1280.1 of the Civil Code of the Russian Federation allow it), distribute, sell or rent out copies of it, or remove or change information about the rights holder.
+
+3. Type of use
+--------------
+3.1. In the first-run wizard you choose the type of use. "Personal" means your own calls, study, job interviews as a candidate and other personal, family and household needs. "Commercial" means work at a company or for yourself, sales, clients and any other income-generating activity.
+
+3.2. Your choice is your statement. Choose the type that matches your actual use and change it if your use changes: Settings -> Run setup again. The program does not verify your choice and does not send it anywhere: it is kept in the settings on your computer.
+
+3.3. In this version both types of use are free and provide the same features. Commercial use of this version of the program is permitted.
+
+3.4. In future versions some features may become paid depending on the type of use. The terms of such features will be set out in a new version of this agreement or in a separate agreement before you start using them. The key for paid features will be checked on your computer, without contacting a server.
+
+4. Data and offline operation
+-----------------------------
+4.1. The program runs on your computer. The audio and text of your calls stay on this computer only and are not sent anywhere. iazShadow sends nothing: the program has no sign-up, no accounts and no servers of its own, and the rights holder does not receive your data.
+
+4.2. The only thing the program does on the network is download speech model files when you click "Download". Where the models come from and what the servers see is described in the privacy policy. Without the internet you can choose a model file instead.
+
+4.3. The program includes Microsoft Windows App SDK and WinUI 3 components. They may send diagnostic data to Microsoft according to your Windows diagnostic data settings; see the privacy policy for details.
+
+5. Recording calls: your responsibility
+---------------------------------------
+5.1. The program records your microphone and the audio your computer plays, and transcribes it. By default the call audio is kept together with the text with no time limit until you delete it. You can turn this off in Settings -> Save call audio.
+
+5.2. You are responsible for the lawfulness of recording and keeping calls. Tell the participants you are recording before you start. Comply with the law, including the law on personal data, privacy and trade secrets, and with the rules of your organization. The program does not collect the participants' consent and does not assess whether a recording is lawful: it reminds you to tell the participants and offers a phrase for them.
+
+5.3. If you use the program for the work of an organization, the organization decides the purposes, retention periods and legal grounds for processing the recordings. The controller (operator) of the participants' personal data is that organization or you, not the rights holder.
+
+5.4. You may not use the program to record conversations secretly or for any other unlawful purpose.
+
+6. Third-party components and models
+------------------------------------
+6.1. The program includes open-source components and Microsoft components. Their list and licenses are in the THIRD-PARTY-NOTICES.txt file in the program's Licenses folder. Those components are governed by their own licenses.
+
+6.2. The speech recognition and speaker labeling models are created by third parties and are distributed under their own licenses (MIT, Apache-2.0); they are listed in the same file. The program downloads them from Hugging Face and GitHub servers or takes them from a file you choose. The rights holder is not responsible for the availability of those servers.
+
+7. Exclusive right
+------------------
+7.1. The exclusive right to the program belongs to the rights holder. This agreement does not transfer it.
+
+7.2. The recordings, transcripts, edits and exported files you create with the program are yours. The rights holder makes no claim to them and has no access to them.
+
+8. Beta version, warranties and liability
+-----------------------------------------
+8.1. The program is provided as a beta version "as is". It may contain errors, may not work on every computer and may change from version to version. The program does not check for or download updates itself: you install new versions yourself.
+
+8.2. Transcription and speaker labeling are automatic and may contain errors. Check anything important against the audio.
+
+8.3. The rights holder does not warrant that the program will suit your purposes or work without failures. Make sure that losing a recording would not be critical for you, for example by exporting important calls.
+
+8.4. When audio is deleted, it is overwritten; disk encryption (BitLocker or Device encryption) protects against leftovers on SSDs. On SSDs and on copy-on-write file systems physical erasure is not guaranteed, and volume shadow copies and backups may contain the audio.
+
+8.5. To the extent permitted by law, the rights holder does not compensate losses, lost profits, data loss or other damage resulting from the use of the program or the inability to use it. This limitation does not apply to intent or gross negligence of the rights holder or where the law does not allow it.
+
+9. Term and termination
+-----------------------
+9.1. This agreement is effective from acceptance for the term of the license (clause 2.1). You may stop using the program at any time by uninstalling it.
+
+9.2. If the user materially breaches this agreement, the rights holder may withdraw from it in the manner established by law.
+
+9.3. When this agreement ends, uninstall the program. Your data stays on the computer; when you uninstall the program, the installer asks whether to delete it too.
+
+10. Changes to this agreement
+-----------------------------
+10.1. The rights holder may change this agreement in a new version of the program. The program shows the new version of the agreement at startup; recording becomes available after you accept it.
+
+10.2. If you do not accept the new version, you may keep using the previous version of the program under the previous version of this agreement.
+
+11. Governing law and disputes
+------------------------------
+11.1. This agreement is governed by the law of the Russian Federation.
+
+11.2. The parties first try to settle disputes by a written claim sent by email to iazshadow@mail.ru; the response period is 30 days. If the dispute is not settled, it is heard by the court at the rights holder's location, unless the law, including consumer protection law, provides otherwise.
+
+11.3. This agreement is made in Russian and English. If the texts differ, the Russian text prevails.
+
+12. Rights holder
+-----------------
+Individual Entrepreneur Ilya Aleksandrovich Zharkov. OGRNIP 323784700171759. Email: iazshadow@mail.ru.
+
+
+================================================================================
+РУССКИЙ ТЕКСТ (ОРИГИНАЛ) / RUSSIAN ORIGINAL TEXT
+================================================================================
+
+Лицензионное соглашение iazShadow
+Редакция 2026.10-beta1 от 18.10.2026
+
+Настоящее соглашение заключено между Индивидуальным предпринимателем Жарковым Ильёй Александровичем, ОГРНИП 323784700171759 («правообладатель»), и вами — лицом, которое устанавливает или использует программу iazShadow («пользователь»). Если вы принимаете настоящее соглашение от имени организации, вы подтверждаете, что уполномочены действовать от её имени; в этом случае пользователем считается эта организация.
+
+Настоящий текст на русском языке является основным. Английский текст является переводом. В случае расхождений приоритет имеет текст на русском языке.
+
+(Полный официальный текст лицензионного соглашения на русском языке доступен в программе и на сайте: https://iazshadow.macroera.ru)
+
