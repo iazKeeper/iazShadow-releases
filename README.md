@@ -3,6 +3,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/iazKeeper/iazShadow-releases?include_prereleases&style=flat-square)](https://github.com/iazKeeper/iazShadow-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20(x64)-blue?style=flat-square)](https://iazshadow.macroera.ru/download)
 [![License](https://img.shields.io/badge/license-Freeware%20%2F%20EULA-green?style=flat-square)](https://github.com/iazKeeper/iazShadow-releases/blob/main/LICENSE.txt)
+[![Support on Boosty](https://img.shields.io/badge/Support-Boosty-orange?style=flat-square)](https://boosty.to/iaz)
 
 > **iazShadow** — the invisible secretary for your meetings. Live speech-to-text, speaker diarization, and overlap resolution running 100% locally on Windows. No cloud, no bots, zero telemetry.
 
@@ -58,6 +59,14 @@ All official release manifests (`iazshadow-update.json`) are cryptographically s
 ## License
 
 iazShadow is proprietary freeware distributed under the [iazShadow End User License Agreement (EULA)](LICENSE.txt). Free for both personal and commercial use in this version.
+
+---
+
+## Support the Project
+
+iazShadow is free, offline, and privacy-focused, with no ads and no subscription. If it saves you time, you can support its independent development on **[Boosty](https://boosty.to/iaz)** or via **[CloudTips](https://pay.cloudtips.ru/p/7913fd09)**.
+
+Your support helps cover code-signing certificates (to eliminate Windows SmartScreen warnings) and server infrastructure, and accelerates the release of offline meeting summaries and Q&A chat.
 
 ---
 
